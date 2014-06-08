@@ -1,0 +1,5 @@
+1: drag imgfx.css to desired folder
+2: add <link href="path/to/imgfx.css" rel="stylesheet" type="text/css"> after your <head> tag
+3: add classes to images
+
+done
